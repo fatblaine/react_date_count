@@ -1,0 +1,41 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.adjustment {
+  margin: 15px;
+}
+
+.button {
+  margin: 10px;
+  height: 25px;
+  width: 25px;
+  color: white;
+  background-color: palevioletred;
+  border-radius: 50%;
+  border: none;
+}
+
+.slider {
+  width: 40%;
+  background-color: palevioletred;
+}
+
+p {
+  margin: 20px;
+}
+
+.reset {
+  width: 15rem;
+  height: 2rem;
+  border-radius: 15px;
+  color: white;
+  background-color: palevioletred;
+  border: none;
+}
